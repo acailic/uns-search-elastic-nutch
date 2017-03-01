@@ -1,7 +1,4 @@
 # uns-search-elastic-nutch
-Implementation of the application which is presented in the MSc thesis
-
-
 # links
 http://www.aossama.com/search-engine-with-apache-nutch-mongodb-and-elasticsearch/ 
 
